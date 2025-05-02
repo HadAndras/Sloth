@@ -1,0 +1,3 @@
+/home/andras/CLionProjects/CppProjects/PacketReader/cmake-build-debug/CMakeFiles/PacketReader.dir
+/home/andras/CLionProjects/CppProjects/PacketReader/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andras/CLionProjects/CppProjects/PacketReader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
